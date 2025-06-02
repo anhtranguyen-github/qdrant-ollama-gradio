@@ -10,6 +10,19 @@ This is a RAG (Retrieval-Augmented Generation) chat application that combines do
 - Local LLM support with Ollama
 - Modern web interface with Gradio
 
+## Application Interface
+
+### Document Upload
+![Document Upload Interface](img/upload-doc.png)
+*Upload your documents to start chatting with context-aware responses*
+
+### Chat Interface
+![Chat Interface 1](img/chat-1.png)
+*Interactive chat interface with document context*
+
+![Chat Interface 2](img/chat-2.png)
+*Detailed responses with thinking steps visualization*
+
 ## Prerequisites
 
 - Docker
